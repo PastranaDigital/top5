@@ -1,7 +1,7 @@
 # Business Jargon
 
-1. best practice
-2. burndown chart
-3. merge conflict resolution
-4. low-hanging fruit
-5. release cadence
+1. synergy
+2. bandwidth
+3. scalability
+4. best practice
+5. stakeholder
