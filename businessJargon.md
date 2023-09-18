@@ -1,7 +1,7 @@
 # Business Jargon
 
-1. Level of Effort
-2. Burndown Chart
-3. What Release?
-4. End of Day
-5. Waiting on PR Approval
+1. best practice
+2. burndown chart
+3. merge conflict resolution
+4. end of day
+5. release cadence
