@@ -1,7 +1,7 @@
 # Business Jargon
 
-1.
-2.
-3.
-4.
-5.
+1. Some
+2. Fun
+3. Words
+4. I
+5. Added
