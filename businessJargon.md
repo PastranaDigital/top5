@@ -1,7 +1,7 @@
 # Business Jargon
 
-1. Definition of Done
-2. Giving 110%  
-3. Best practice
-4. Low-hanging fruit
-5. Core Values
+1. best practice
+2. burndown chart
+3. merge conflict resolution
+4. low-hanging fruit
+5. release cadence
